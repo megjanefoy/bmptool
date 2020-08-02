@@ -10,9 +10,6 @@
  * Semester: COP4338 - Spring 2021
  * Author Megan Jane Thompson
  *
- * I affirm that the revisions of this program is entirely
- * my own work and none of it is the work of any other person.
- *
  * This program extracts options from the command line and
  * adjusts a bmp file accordingly.
  *
